@@ -296,6 +296,22 @@ npm run dev
 
 
 
+---
+
+##  **Resume Points**
+
+Use the following bullet points to describe this project on your resume:
+
+- **Built a full-stack rental management platform** (SmartRent) using **React 19**, **Node.js/Express**, **PostgreSQL** (via Prisma ORM), and **MongoDB**, featuring dual-role architecture (customer & admin) with **JWT-based authentication** and role-based access control.
+
+- **Integrated Razorpay payment gateway** to enable secure online transactions, automated invoice generation, and a flexible multi-tier pricing engine supporting hourly, daily, weekly, and monthly rental durations.
+
+- **Implemented real-time inventory tracking** with live availability checking to eliminate double-bookings, coupled with a dynamic pricing & discount configuration system and comprehensive revenue analytics dashboard for admins.
+
+- **Engineered an automated backend workflow** using Node.js/Express REST APIs, including email notifications, OTP-based email verification, scheduled reminders, image-upload management, and end-to-end order lifecycle management (browse → book → pay → deliver → return).
+
+---
+
 **Built with ❤️ by Team Soul_Society**
 
 *Transforming the rental industry, one line of code at a time*
